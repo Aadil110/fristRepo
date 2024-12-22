@@ -1,3 +1,3 @@
-This is a read me fine
+This is a not a read me file
 we are in session Git101
-we are writing another line
+we are writing another line.
